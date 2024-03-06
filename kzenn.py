@@ -1,6 +1,6 @@
 #kzenn
 #Facebook:  kzennn
-#Github : https://github.com/kzennn
+#Github : https://github.com/kzennn/kzenn.git
 from os import path
 import os,base64,zlib,pip,urllib
 try:
